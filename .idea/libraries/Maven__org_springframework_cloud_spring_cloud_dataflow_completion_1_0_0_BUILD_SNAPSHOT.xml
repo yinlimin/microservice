@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-dataflow-completion:1.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-dataflow-completion/1.0.0.BUILD-SNAPSHOT/spring-cloud-dataflow-completion-1.0.0.BUILD-20160711.031416-373.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-dataflow-completion/1.0.0.BUILD-SNAPSHOT/spring-cloud-dataflow-completion-1.0.0.BUILD-20160711.031416-373-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-dataflow-completion/1.0.0.BUILD-SNAPSHOT/spring-cloud-dataflow-completion-1.0.0.BUILD-20160711.031416-373-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

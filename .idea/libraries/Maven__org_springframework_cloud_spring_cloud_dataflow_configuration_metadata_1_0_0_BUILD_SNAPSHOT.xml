@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.cloud:spring-cloud-dataflow-configuration-metadata:1.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-dataflow-configuration-metadata/1.0.0.BUILD-SNAPSHOT/spring-cloud-dataflow-configuration-metadata-1.0.0.BUILD-20160711.031416-371.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-dataflow-configuration-metadata/1.0.0.BUILD-SNAPSHOT/spring-cloud-dataflow-configuration-metadata-1.0.0.BUILD-20160711.031416-371-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-dataflow-configuration-metadata/1.0.0.BUILD-SNAPSHOT/spring-cloud-dataflow-configuration-metadata-1.0.0.BUILD-20160711.031416-371-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
